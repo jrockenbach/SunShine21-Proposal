@@ -21,11 +21,11 @@ Instead of chips there will be different colored gems!
 
 ### Work Schedule
 
--Monday. JS and game logic
--Tuesday. JS and game logic
--Wednesday. JS and game logic
--Thursday. JS and game logic
--Friday. JS and game logic
--Saturday. JS and game logic
--Sunday. CSS
--Monday. Submit fial project
+- Monday. JS and game logic
+- Tuesday. JS and game logic
+- Wednesday. JS and game logic
+- Thursday. JS and game logic
+- Friday. JS and game logic
+- Saturday. JS and game logic
+- Sunday. CSS
+- Monday. Submit fial project
