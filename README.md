@@ -1,6 +1,9 @@
 # SunShine21
 A cool 2 player game that's a cartoony styled version of Blackjack.
 
+## Wireframe
+(https://github.com/SunShineOneX/SunShine21/blob/master/Wirefram-1.png?raw=true)
+
 ## How to win
 Get 21.
 
