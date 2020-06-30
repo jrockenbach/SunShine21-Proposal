@@ -1,2 +1,16 @@
 # SunShine21
-A cool cartoony styled version of Blackjack.
+A cool 2 player game that's a cartoony styled version of Blackjack.
+
+## How to win
+Get 21.
+
+## How to lose
+go bankrupt.
+
+## A way to keep playing
+You can keep playing after every round as long as you aren't out of money.
+Each round you can either, win, lose, or tie the dealer.
+If you run out of money then it's game over, otherwise, you can continue to play.
+
+## Unique currency
+Instead of chips there will be different colored gems!
