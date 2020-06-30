@@ -2,7 +2,8 @@
 A cool 2 player game that's a cartoony styled version of Blackjack.
 
 ## Wireframe
-[Black]: https://github.com/SunShineOneX/SunShine21/blob/master/Wirefram-1.png?raw=true
+![Test Image 1](https://github.com/SunShineOneX/SunShine21/blob/master/Wirefram-1.png?raw=true)
+
 
 ## How to win
 Get 21.
